@@ -34,7 +34,7 @@
                                 <rect key="frame" x="31" y="102" width="65" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.82922913600000003" green="0.93088616970000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="pi"/>
+                                <state key="normal" title="π"/>
                                 <connections>
                                     <action selector="performOperation:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MQK-PF-Vm6"/>
                                 </connections>
